@@ -15,5 +15,5 @@ events:
   - windows95
   - winamp
   - media-scrub
+  - vlc-player
 ---
-
