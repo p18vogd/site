@@ -14,6 +14,6 @@ gallery:
     caption: "Το Dcoder είναι ένας φορητός compiler συμβατός με αρκετές γλώσσες προγραμματισμού. Είναι συμβατός με συσκευές Android και IOS. Ό χρήστης μπορεί να δοκιμάσει απλές προγραμματίστηκες ιδέες στο κινητό του τηλέφωνο από όπου και να βρίσκεται."
 ---
 
-{% include extras/cs-mobile-ide.md %}
+{% include_relative cs-mobile-ide.md %}
 
 {% include gallery %}
